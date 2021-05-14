@@ -1,1 +1,1 @@
-All this about my wish to live seperatly from parents
+I will study hard for it
