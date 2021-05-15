@@ -1,5 +1,4 @@
 import csv
-# from os import name
 
 file = open('phonebook.csv', 'a')
 
